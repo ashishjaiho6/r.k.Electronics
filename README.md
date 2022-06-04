@@ -62,4 +62,4 @@ react-native: 0.68.2 => 0.68.2
 npmGlobalPackages:
 _react-native_: Not Found
 
-### thank you ! 🌟🌟🌟🌟🌟
+### thank you ! 🌟🌟🌟🌟🌟  👍👍👍👍👍
